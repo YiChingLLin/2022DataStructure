@@ -5,6 +5,6 @@ Course: http://soslab.nccu.edu.tw/Courses.html
 
 # Weekly Lab #
 
-2022 DS TA 
+2022 DS Lab Class
 
-MONDAY 12:00 - 2:00 p.m.
+MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
