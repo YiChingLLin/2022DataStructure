@@ -1,4 +1,4 @@
-# NCCU 2022 Data_Structure #
+# NCCU 2022 Data Structure #
 
 Course: http://soslab.nccu.edu.tw/Courses.html
 
