@@ -1,5 +1,11 @@
 # Final Project #
 
+##Term Project (30%):
+
+> Including project proposal (20%), demo (40%) and implementation (40%).
+
+> 3-5 students as a team. The project details will be announced in the early of Oct.
+
 ## 11/17: Project proposal
 Should include the following sections:
 
