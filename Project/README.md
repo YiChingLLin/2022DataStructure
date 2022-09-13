@@ -7,7 +7,7 @@ Should include the following sections:
 
     2. Search tricks /Your score formulation
 
-    3. System design /Class diagrams [proposal sample]
+    3. System design /Class diagrams [proposal sample](http://www3.nccu.edu.tw/~yuf/DBProposalExample.pdf)
 
     4. Schedule /How and when to accomplish stages
 
