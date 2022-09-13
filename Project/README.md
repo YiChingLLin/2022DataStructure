@@ -1,6 +1,6 @@
 # Final Project #
 
-##Term Project (30%):
+## Term Project (30%):
 
 > Including project proposal (20%), demo (40%) and implementation (40%).
 
