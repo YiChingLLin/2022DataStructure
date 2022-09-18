@@ -26,7 +26,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 4. Install [Eclipse IDE](http://www.eclipse.org/downloads/)
 
-> Choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
+    > Choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
 
 5. Install [Git](https://git-scm.com/)
 
