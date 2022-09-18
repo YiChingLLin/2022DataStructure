@@ -10,7 +10,7 @@ Group list registration: https://forms.gle/P1G9bG55cPgsamzdA
 
 MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
-## lab1 20220919## 
+## lab1 20220919 ## 
 1. Install Java, Eclipse and git. 
 
 2. HW1 : BMI **DEADLINE: 0926**
