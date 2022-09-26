@@ -6,7 +6,7 @@
 
 > 3-5 students as a team. The project details will be announced in the early of Oct.
 
-## 11/17: Project proposal
+## 11/10: Project proposal
 Should include the following sections:
 
 1. Introduction /Your topic and motivation
