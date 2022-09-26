@@ -15,6 +15,9 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 2. HW1 : BMI **DEADLINE: 0926**
 
+## lab2 20220926 ##
+1. HW2 : Generic Geometric Progression **DEADLINE: 1003**
+
 
 # Install Instruction #
 
