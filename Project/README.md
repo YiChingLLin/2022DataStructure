@@ -12,7 +12,7 @@
 
 - Make sure your search engine gets better results than a general search engine such as Google. 
 
-## :chart_with_upwards_trend: Stages ##
+## :pushpin: Stages ##
 ### Stage 0 (HW3) Keyword Counting
 - Given an URL and a keyword
 
