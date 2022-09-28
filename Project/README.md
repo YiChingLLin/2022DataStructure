@@ -12,7 +12,7 @@
 
 - Make sure your search engine gets better results than a general search engine such as Google. 
 
-## Stages ##
+## :heavy_check_mark: Stages ##
 ### Stage 0 (HW3) Keyword Counting
 - Given an URL and a keyword
 
@@ -56,7 +56,7 @@
 ### Stage 6 (100%+) Export Your Work to App
 - Wrap your search engine as an iOS/android mobile application 
 
-## Important Date ##
+## :date: Important Date ##
 ### 11/10: Project proposal
 Submit the project proposal (4-8 pages), which should include the following sections:
 
