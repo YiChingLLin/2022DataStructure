@@ -1,6 +1,6 @@
 # Final Project - Let's Beat Google! #
 
-## Term Project (30%):
+## Term Project (30%) ##
 
 > Including project proposal (20%), demo (40%) and implementation (40%).
 
@@ -12,13 +12,13 @@
 
 - Make sure your search engine gets better results than a general search engine such as Google. 
 
-## Stages
-### Stage 0 (HW3): Keyword Counting
+## Stages ##
+### Stage 0 (HW3) Keyword Counting
 - Given an URL and a keyword
 
 - Return how many times the keyword appears in the contents of the URL
 
-### Stage 1 (30%+): Page Ranking
+### Stage 1 (30%+) Page Ranking
 - Given a set of keywords and URLs
 
 - Rank the URLs based on their score
@@ -56,7 +56,7 @@
 ### Stage 6 (100%+) Export Your Work to App
 - Wrap your search engine as an iOS/android mobile application 
 
-## Important Date
+## Important Date ##
 ### 11/10: Project proposal
 Submit the project proposal (4-8 pages), which should include the following sections:
 
