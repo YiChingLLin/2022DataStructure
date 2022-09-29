@@ -57,7 +57,7 @@
 - Wrap your search engine as an iOS/android mobile application 
 
 ## :date: Important Date ##
-### 11/10: Project proposal
+### 11/17: Project proposal
 Submit the project proposal (4-8 pages), which should include the following sections:
 
 1. Introduction /Your topic and motivation
