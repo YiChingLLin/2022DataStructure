@@ -2,7 +2,9 @@
 
 Course: http://soslab.nccu.edu.tw/Courses.html
 
-Group list registration: https://forms.gle/P1G9bG55cPgsamzdA
+<!-- Group list registration: https://forms.gle/P1G9bG55cPgsamzdA -->
+
+Group List: https://docs.google.com/spreadsheets/d/1nh-GbwYwqjlzjASp_yhuQxM6ALUlcQFy67WqF4G-5jg/edit?usp=sharing
 
 # Weekly Lab #
 
@@ -18,8 +20,13 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## lab2 20220926 ##
 1. HW2 : Generic Geometric Progression **DEADLINE: 1003**
 
+## lab3 20221003 ##
+1. HW3 : Count a Keyword in a Web Page! **DEADLINE: 1010**
 
-# Install Instruction #
+2. Eclipse with GitHub, and [send group's GitHub to TA](https://forms.gle/L1ve3bTjiecEdwNb8)
+
+
+# :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)
 
@@ -37,7 +44,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
     - https://miahsuwork.medium.com/%E7%AC%AC%E4%BA%8C%E9%80%B1-git-%E6%9C%AC%E5%9C%B0%E7%AB%AF%E8%88%87%E9%81%A0%E7%AB%AF%E6%93%8D%E4%BD%9C-github-78eec4537179
 
-# Download HW #
+# :file_folder: Download HW #
 
 In your computer's folder, use the command below :
 
