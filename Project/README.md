@@ -13,7 +13,7 @@
 - Make sure your search engine gets better results than a general search engine such as Google. 
 
 ## :pushpin: Stages ##
-### Stage 0 (HW3) Keyword Counting
+### Stage 0 (HW3) Keyword Counting [HW3](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab3)
 - Given an URL and a keyword
 
 - Return how many times the keyword appears in the contents of the URL
