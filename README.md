@@ -25,6 +25,9 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 2. Eclipse with GitHub, and [send group's GitHub to TA](https://forms.gle/L1ve3bTjiecEdwNb8)
 
+## lab4 20221017 ##
+1. HW4 : Maintain an ordered keyword list **DEADLINE: 1024**
+
 
 # :link: Install Instruction #
 
