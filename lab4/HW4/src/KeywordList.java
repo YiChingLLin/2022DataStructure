@@ -26,7 +26,7 @@ public class KeywordList {
 	}
 	
 	public void outputIndex(int i){
-		if(i > lst.size()){
+		if(i >= lst.size()){
 		    System.out.println("InvalidOperation");
 		    return;
 		}
