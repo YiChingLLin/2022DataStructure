@@ -28,6 +28,8 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## lab4 20221017 ##
 1. HW4 : Maintain an ordered keyword list **DEADLINE: 1024**
 
+## lab5 20221024 ##
+1. HW5 : Matching/Analyzing HTML Tags **DEADLINE: 1031**
 
 # :link: Install Instruction #
 
