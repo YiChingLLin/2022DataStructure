@@ -70,3 +70,17 @@ In your computer's folder, use the command below :
 `git pull origin master`
 
 then you can refresh the data weekly to download HW from GitHub.
+
+**If it has a conflict during the download HW**
+
+You can try
+
+`cd (your folder path)`
+
+`git add .`
+
+`git commit -m "write some message"`
+
+`git merge master`
+
+then pull again.
