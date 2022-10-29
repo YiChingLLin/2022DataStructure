@@ -7,7 +7,7 @@ public class KeywordList {
 	}
 	
 	public void add(Keyword keyword){
-		//add keyword to proper index base on its count. DECENDING SORT BY COUNT AND WEIGHT
+		//add keyword to proper index base on its count. ASCENDING SORT BY COUNT AND WEIGHT
 		//printKeywordList(lst) : check if elements are sorted 
 		for(int i = 0; i < lst.size(); i++){
 			Keyword k = lst.get(i);	
