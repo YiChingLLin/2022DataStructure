@@ -31,6 +31,18 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## lab5 20221024 ##
 1. HW5 : Matching/Analyzing HTML Tags **DEADLINE: 1031**
 
+## lab6 20221031##
+1. HW6 : Compute the score of a website! **DEADLINE: 1107**
+
+2. Notice for Prescreen
+    > The location is at MIS PC Classroom. (9:10-12:00am / 1:10-4:00pm)
+    > You can use your laptop or the PC in the classroom.
+    > Email TA before the exam if you are in quarantine.
+
+
+## test 20221103##
+1. Prescreen on Java Programming Test   
+
 # :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)
