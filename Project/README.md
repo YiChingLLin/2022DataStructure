@@ -18,7 +18,7 @@
 
 - Return how many times the keyword appears in the contents of the URL
 
-### Stage 1 (30%+) Page Ranking
+### Stage 1 (30%+) Page Ranking [HW6](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab6)
 - Given a set of keywords and URLs
 
 - Rank the URLs based on their score
@@ -27,7 +27,7 @@
 
 - For each URL (a web page), return its rank, score, and the count on appearance of each keyword 
 
-### Stage 2 (50%+) Site Ranking
+### Stage 2 (50%+) Site Ranking [HW6](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab6)
 - Multiple level keyword search
 
 - Given a set of Web sites (URLs) and Keywords
