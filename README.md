@@ -42,7 +42,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
     > Email TA before the exam if you are in quarantine.
 
 ## test 20221103 ##
-1. Prescreen on Java Programming Test   
+1. Prescreen on Java Programming [GitHub](https://github.com/YiChingLLin/2022DataStructure)
 
 # :link: Install Instruction #
 
