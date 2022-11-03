@@ -44,7 +44,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## test 20221103 ##
 1. Prescreen on Java Programming 
     
-    <!-- Download from [GitHub](https://github.com/YiChingLLin/2022DSPrescreen) -->
+    Download from [GitHub](https://github.com/YiChingLLin/2022DSPrescreen)
 
 # :link: Install Instruction #
 
