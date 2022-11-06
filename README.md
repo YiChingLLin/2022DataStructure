@@ -46,6 +46,11 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
     
     Download from [GitHub](https://github.com/YiChingLLin/2022DSPrescreen)
 
+## project 20221107 ##
+1. Setup Environment for Project (Eclipse EE, Tomcat, jsoup)
+
+2. Notice for Proposal **DEADLINE: 1117**
+
 # :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)
@@ -56,7 +61,9 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 4. Install [Eclipse IDE](http://www.eclipse.org/downloads/)
 
-    > Choose Eclipse IDE for Java SE Developers or Eclipse IDE for Java EE Developers
+    > Choose Eclipse IDE for Java Developers or Eclipse IDE for Enterprise Java and Web Developers(EE)
+
+    > or download the Eclipse IDE for Enterprise Java and Web Developers via [Eclipse packages](https://www.eclipse.org/downloads/packages/)
 
 5. Install [Git](https://git-scm.com/)
 
@@ -64,11 +71,15 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
     - https://miahsuwork.medium.com/%E7%AC%AC%E4%BA%8C%E9%80%B1-git-%E6%9C%AC%E5%9C%B0%E7%AB%AF%E8%88%87%E9%81%A0%E7%AB%AF%E6%93%8D%E4%BD%9C-github-78eec4537179
 
+6. Download [Tomcat](https://tomcat.apache.org/)
+
+7. Download [jsoup](https://jsoup.org/download)
+
 # :file_folder: Download HW #
 
 In your computer's folder, use the command below :
 
-**First time**
+### First time
 
 `cd (your folder path)`
 
@@ -78,7 +89,7 @@ In your computer's folder, use the command below :
 
 `git pull origin master`
 
-**Next time**
+### Next time
 
 `cd (your folder path)`
 
@@ -86,7 +97,7 @@ In your computer's folder, use the command below :
 
 then you can refresh the data weekly to download HW from GitHub.
 
-**If it has a conflict during the download HW**
+### If it has a conflict during the download HW
 
 You can try
 
