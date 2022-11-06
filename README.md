@@ -49,7 +49,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## project 20221107 ##
 1. Setup Environment for Project (Eclipse EE, Tomcat, jsoup)
 
-2. Notice for Proposal **DEADLINE: 1117**
+2. Notice for Proposal
 
 # :link: Install Instruction #
 

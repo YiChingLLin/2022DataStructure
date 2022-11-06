@@ -57,7 +57,7 @@
 - Wrap your search engine as an iOS/android mobile application 
 
 ## :date: Important Date ##
-### 11/17: Project proposal
+### 11/17 Project proposal
 Submit the project proposal (4-8 pages), which should include the following sections:
 
 1. Introduction /Your topic and motivation
@@ -70,6 +70,17 @@ Submit the project proposal (4-8 pages), which should include the following sect
 
 5. Challenges /Techniques that you need but may have a hard time to learn on your own
 
-### 1/5: Project Demo 
+### 1/5 Project Demo 
 
-### 1/12: Project Code and Final Report Upload
+### 1/12 Project Code and Final Report Upload
+
+## :link: Install Instruction ##
+1. Install [Eclipse IDE](http://www.eclipse.org/downloads/)
+
+    > Choose Eclipse IDE for Enterprise Java and Web Developers(EE)
+
+    > or download the Eclipse IDE for Enterprise Java and Web Developers via [Eclipse packages](https://www.eclipse.org/downloads/packages/)
+
+2. Download [Tomcat](https://tomcat.apache.org/)
+
+3. Download [jsoup](https://jsoup.org/download)
