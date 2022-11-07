@@ -32,7 +32,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 1. HW5 : Matching/Analyzing HTML Tags **DEADLINE: 1031**
 
 ## lab6 20221031 ##
-1. HW6 : Compute the score of a website! **DEADLINE: ~~1107~~**
+1. HW6 : Compute the score of a website! **DEADLINE: ~~1107~~ 1110**
     
     > Postpone the deadline due to the website shutdown last weekend.
 
