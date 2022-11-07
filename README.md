@@ -34,7 +34,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## lab6 20221031 ##
 1. HW6 : Compute the score of a website! **DEADLINE: ~~1107~~**
     
-    > Postpone the deadline due to the website shutdown last the weekend.
+    > Postpone the deadline due to the website shutdown last weekend.
 
 2. Notice for Prescreen
     > The location is at MIS PC Classroom. (9:10-12:00am / 1:10-4:00pm)
