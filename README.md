@@ -37,11 +37,11 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
     > Postpone the deadline due to the website shutdown last weekend.
 
 2. Notice for Prescreen
-    > The location is at MIS PC Classroom. (9:10-12:00am / 1:10-4:00pm)
+    - The location is at MIS PC Classroom. (9:10-12:00am / 1:10-4:00pm)
 
-    > You can use your laptop or the PC in the classroom.
+    - You can use your laptop or the PC in the classroom.
 
-    > Email TA before the exam if you are in quarantine.
+    - Email TA before the exam if you are in quarantine.
 
 ## test 20221103 ##
 1. Prescreen on Java Programming 
@@ -52,6 +52,16 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 1. Setup Environment for Project (Eclipse EE, Tomcat, jsoup)
 
 2. Notice for Proposal
+
+## lab7 20221114 ##
+
+1. HW7: Maintain a keyword heap **DEADLINE: 1121**
+
+    - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
+
+    - https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
+
+2. Project Proposal **DEADLINE: 1117**
 
 # :link: Install Instruction #
 
