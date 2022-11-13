@@ -55,7 +55,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
 ## lab7 20221114 ##
 
-1. HW7: Maintain a keyword heap **DEADLINE: 1121**
+1. HW7 : Maintain a keyword heap **DEADLINE: 1121**
 
     - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
 
