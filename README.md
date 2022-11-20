@@ -65,6 +65,10 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 ## lab8 20221121 ##
 1. HW8 : Use Google and get the links! **DEADLINE: 1128**
 
+    - https://jsoup.org/apidocs/org/jsoup/nodes/package-summary.html
+    
+    - https://www.1ju.org/jsoup/jsoup-quick-start
+
 # :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)
