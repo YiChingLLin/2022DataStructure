@@ -54,7 +54,6 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 2. Notice for Proposal
 
 ## lab7 20221114 ##
-
 1. HW7 : Maintain a keyword heap **DEADLINE: 1121**
 
     - https://docs.oracle.com/javase/8/docs/api/java/util/PriorityQueue.html
@@ -62,6 +61,9 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
     - https://docs.oracle.com/javase/8/docs/api/java/util/Comparator.html
 
 2. Project Proposal **DEADLINE: 1117**
+
+## lab8 20221121 ##
+1. HW8 : Use Google and get the links! **DEADLINE: 1128**
 
 # :link: Install Instruction #
 
