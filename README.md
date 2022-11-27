@@ -69,6 +69,15 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
     
     - https://www.1ju.org/jsoup/jsoup-quick-start
 
+## review 20221128 ##
+1. Lecture Review for Midterm
+    - Lec 1-9, TextBook Ch1-9, 11-12 (part)
+
+2. Notice for Midterm (20221201)
+    - The location is at 資訊大樓 301 (9:10-12:00am), 資訊大樓 401 (1:10-4:00pm).
+
+    - Email TA and Teacher before the exam if you are in quarantine.
+
 # :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)
