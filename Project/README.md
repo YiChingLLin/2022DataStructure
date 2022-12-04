@@ -38,7 +38,7 @@
 
 - For each URL (a web site), return its rank, score, and a tree structure for its sub URLs along with the number of appearance of each keyword in each node
 
-### Stage 3 (70%+) Refine the rank of Google [HW8](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab8)
+### Stage 3 (70%+) Refine the rank of Google [HW8](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab8) [HW9](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab9)
 - Given a set of Keywords (No URLs)
 
 - Use search engines to find potential URLs
