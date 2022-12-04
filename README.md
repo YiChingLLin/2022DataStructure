@@ -78,6 +78,13 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
     - Email TA and Teacher before the exam if you are in quarantine.
 
+## lab9 20221205 ##
+1. HW9 : Quick sort keywords! **DEADLINE: 1212**
+
+    - https://www.hackerearth.com/practice/algorithms/sorting/quick-sort/visualize/
+   
+    - http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html 
+
 # :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)

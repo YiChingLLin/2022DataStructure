@@ -1,0 +1,8 @@
+add Fang 3
+add Yu 5
+add NCCU 2
+add UCSB 1
+output
+add MIS 4
+sort
+output
