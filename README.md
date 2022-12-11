@@ -85,6 +85,20 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
    
     - http://alrightchiu.github.io/SecondRound/comparison-sort-quick-sortkuai-su-pai-xu-fa.html 
 
+## lab10 20221212 ##
+1. HW10 : Find the most similar keyword! **DEADLINE: 1219**
+
+    - http://web.ntnu.edu.tw/~algo/Subsequence2.html
+
+2. Bonus HW : Write the reflection on 12/12 資管專題發表會 or 12/22 演講.
+
+    - 12/12 9:00 a.m. - 5:30 p.m. [資管專題發表會](https://mis2.nccu.edu.tw/zh_tw/Announcement/A09/108%E7%B4%9A%E5%A4%A7%E5%AD%B8%E9%83%A8%E7%95%A2%E6%A5%AD%E5%B0%88%E9%A1%8C%E7%99%BC%E8%A1%A8-%E5%B0%87%E6%96%BC111%E5%B9%B412%E6%9C%8812%E6%97%A5-%E6%98%9F%E6%9C%9F%E4%B8%80-%E4%B8%8A%E5%8D%889%E6%99%82%E7%9B%9B%E5%A4%A7%E8%88%89%E8%BE%A6-24681662)
+
+    - 12/22 1:10 - 4:00 p.m. [演講](https://docs.google.com/forms/d/e/1FAIpQLSczbSR0n3P_CcOVgNm5-FFxbcFg_CWcOwBI33N5aJFt6CZHWA/viewform)
+
+    > Upload the pdf file via WM5, File Name: HW{date_ID number}.pdf
+
+
 # :link: Install Instruction #
 
 1. Install [JRE](https://www.java.com/en/download/)
