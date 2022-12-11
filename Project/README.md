@@ -45,7 +45,7 @@
 
 - Apply the ranking on Stage 2 to these Web sites
 
-### Stage 4 (80%+) Semantics Analysis
+### Stage 4 (80%+) Semantics Analysis [HW10](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab10)
 - Derive relative keywords from the discovered Web sites
 
 - Iteratively do the same analysis on Stage 3
