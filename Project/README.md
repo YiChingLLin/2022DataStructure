@@ -71,6 +71,13 @@ Submit the project proposal (4-8 pages), which should include the following sect
 5. Challenges /Techniques that you need but may have a hard time to learn on your own
 
 ### 1/5 Project Demo 
+- Location: The MIS 5F PC classroom
+
+- Each team gives **8 minutes PPT presentation** focusing on the project interests, key ideas, and achievements + **7 minutes system demo**
+
+- In the demo, each team needs to **run your system** to show how it works and how it achieves the requirement for each stage. Will also check your source code.
+
+- BONUS: Students who successfully challenge other team’s system may get extra points. 
 
 ### 1/12 Project Code and Final Report Upload
 

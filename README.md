@@ -107,19 +107,19 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 
         > File Name: HW{hw number_ID number}.zip
 
-    - Upload the answers for previous HW on GitHub **1220**
+    - Upload the answers for previous HW on GitHub **on 1220**
 
     - Next week (1226), Lab class location will change to @逸仙樓 5F MIS **MAC** Classroom
 
-    - Bonus HW (reflection) **DEADLINE: 1228**
+    - Bonus HW **DEADLINE: 1228**
 
         > File Name: HW{date_ID number}.pdf 
 
     - Send or Modify the group's GitHub link [via Google form](https://forms.gle/L1ve3bTjiecEdwNb8) **DEADLINE: 20230105**
 
-    - Project Demo **20230105**
+    - Project Demo **on 20230105**
 
-    - Makeup Exam **20230109 (temp)**
+    - Makeup Exam **on 20230109 (temp)**
 
     - Project Code and Final Report Upload **DEADLINE: 20230112**
 
