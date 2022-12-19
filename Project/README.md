@@ -50,10 +50,10 @@
 
 - Iteratively do the same analysis on Stage 3
 
-### Stage 5 (90%+) Publish Your Work Online
+### Stage 5 (90%+) Publish Your Work Online [HW11](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab11)
 - Build a web site/service for your search engine
 
-### Stage 6 (100%+) Export Your Work to App [HW11](https://github.com/YiChingLLin/2022DataStructure/tree/master/lab11)
+### Stage 6 (100%+) Export Your Work to App 
 - Wrap your search engine as an iOS/android mobile application 
 
 ## :date: Important Date ##
