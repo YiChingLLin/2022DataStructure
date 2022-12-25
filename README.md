@@ -127,9 +127,9 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
 1. Show some previous project examples.
 
 2. Notice
-    - Makeup Exam **on 20230109 (temp)**
+    - Makeup Exam **on 20230109**
     
-    > Sign up via send Email to TA蔣
+        > Sign up via send Email to TA蔣
 
 
 # :link: Install Instruction #
