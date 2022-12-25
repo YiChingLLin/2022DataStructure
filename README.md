@@ -124,7 +124,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
     - Project Code and Final Report Upload **DEADLINE: 20230112**
 
 ## project 20221226 ##
-1. Show some previous project examples.
+1. Demo some previous project examples.
 
 2. Notice
     - Makeup Exam **on 20230109**
