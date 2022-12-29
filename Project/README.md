@@ -71,7 +71,7 @@ Submit the project proposal (4-8 pages), which should include the following sect
 5. Challenges /Techniques that you need but may have a hard time to learn on your own
 
 ### 1/5 Project Demo 
-- Location: The MIS 5F PC classroom
+- Location: 311 College of Commerce
 
 - Each team gives **8 minutes PPT presentation** focusing on the project interests, key ideas, and achievements + **7 minutes system demo**
 
