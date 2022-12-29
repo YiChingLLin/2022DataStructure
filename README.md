@@ -132,7 +132,7 @@ MONDAY 12:10 - 2:00 p.m. @逸仙樓 5F MIS PC Classroom
         > Sign up via send Email to TA蔣
 
 ## makeup exam 20230109 ##
-- Location: MIS MAC Classroom (逸仙樓五樓) 
+- Location: MIS MAC Classroom (逸仙樓 5F) 
 
 - Time: 12:10 - 2:00 p.m.
 
